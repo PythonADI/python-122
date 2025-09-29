@@ -1,7 +1,8 @@
 # Python
 
 ## Topics
-[Workshop 1](./docs/workshop_1.md)
+- [Workshop 1](./docs/workshop_1.md)
+- [Workshop 3: Control Flow and Loops](./docs/workshop_3.md)
 
 
 ## Homeworks
