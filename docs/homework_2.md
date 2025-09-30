@@ -2,33 +2,32 @@
 
 ## Instructions
 
-Complete the following exercises using the code and concepts from `workshop_1` and `workshop_2`. All work should be committed to your GitHub repository that you created in Homework 1.
+Complete the following exercises using the code and concepts from `workshop_2`. All work should be committed to your GitHub repository that you created in Homework 1.
 
 ### 1. Variables and Naming
-- Create a Python script that defines at least three variables using proper naming conventions.
-- Print their values.
+- Create a Python script that defines at least three variables using proper naming conventions (as shown in `naming_convention.py`).
+- Print their values using string formatting.
 - Use meaningful variable names that describe their purpose.
 
 ### 2. Type Casting
-- Write a function that takes a string input and returns its integer value. Handle invalid input gracefully.
-- Demonstrate the function with at least two examples.
-- Include error handling for non-numeric inputs.
+- Create a script that demonstrates the conversion between different data types (int, float, str).
+- Show examples of type casting similar to those in `type_casting.py`.
+- Include examples with rounding numbers.
 
 ### 3. String Manipulation
-- Create a function that takes a user's name as input and returns a greeting message in the format: `Hello, <Name>!`
-- Use string formatting methods from `workshop_2/strings.py`.
-- Add input validation to ensure the name isn't empty.
+- Create a script that demonstrates different string creation methods (single quotes, double quotes, multi-line).
+- Use escape characters and string operations.
+- Print the length of different strings as demonstrated in `strings.py`.
 
 ### 4. Average Calculation
-- Write a script that asks the user for three numbers and prints their average.
-- Use the logic from `workshop_2/average.py`.
+- Write a script that calculates and displays the average of three numbers.
+- Use the approach shown in `workshop_2/average.py`.
 - Format the output to display the average with 2 decimal places.
-- Handle invalid inputs appropriately.
 
 ### 5. Input Basics
-- Create a script that asks the user for their age and prints a message stating whether they are a minor or an adult.
-- Use input handling techniques from `workshop_2/input_basics.py`.
-- Add validation to ensure the age is a positive number.
+- Create a script that asks the user for their name and age using the input() function.
+- Convert the age input to an integer as shown in `input_basics.py`.
+- Print personalized output using the collected information.
 
 ## Submission Guidelines
 1. Create a folder named `homework_2` in your GitHub repository.
@@ -38,8 +37,9 @@ Complete the following exercises using the code and concepts from `workshop_1` a
 5. Test all your scripts to ensure they work as expected.
 
 ## Evaluation Criteria
-- Proper use of Python syntax and conventions
-- Implementation of error handling
+- Proper use of Python syntax and naming conventions
+- Correct implementation of type casting
+- Effective string manipulation techniques
+- Proper handling of user input
 - Code organization and readability
-- Proper use of Git for version control
 - Following the submission guidelines
