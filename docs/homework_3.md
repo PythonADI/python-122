@@ -49,12 +49,6 @@ Complete the following exercises using the code and concepts from `workshop_3`. 
   - Prints the word in reverse order
 - Reference the approach in `strings.py` (from the loops directory)
 
-### 7. Using Enumerate
-- Create a script that uses the enumerate function to work with a list of items:
-  - Create a list of at least 5 fruits or other items
-  - Use enumerate to print each item with its position (index + 1)
-  - Use conditional logic to mark even-positioned items differently
-- Base your approach on `enumerate.py`
 
 ## Submission Guidelines
 1. Create a folder named `homework_3` in your GitHub repository.

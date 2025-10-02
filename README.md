@@ -9,3 +9,4 @@
 
 1. [Homework 1: Introduction to Python and Git](./docs/homework_1.md)
 2. [Homework 2: Python Basics](./docs/homework_2.md)
+3. [Homework 3: Control Flow](./docs/homework_3.md)
