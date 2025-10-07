@@ -11,3 +11,4 @@
 2. [Homework 2: Python Basics](./docs/homework_2.md)
 3. [Homework 3: Control Flow](./docs/homework_3.md)
 4. [Homework 4: Lists, While Loops, and Input Validation](./docs/homework_4.md)
+5. [Homework 5: Advanced Lists and Control Flow](./docs/homework_5.md)
