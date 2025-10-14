@@ -18,3 +18,4 @@
 4. [Homework 4: Lists, While Loops, and Input Validation](./docs/homework_4.md)
 5. [Homework 5: Advanced Lists and Control Flow](./docs/homework_5.md)
 6. [Homework 6: Dictionaries, Tuples, and Advanced Data Structures](./docs/homework_6.md)
+7. [Homework 7: Functions, Searching, and Sorting](./docs/homework_7.md)
