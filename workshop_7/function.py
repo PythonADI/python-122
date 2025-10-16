@@ -32,7 +32,6 @@ def input_number():
         else:
             print("Please enter valid number!")
 
-
 number = input_number()
 number2 = input_number()
 
