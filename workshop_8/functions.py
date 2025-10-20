@@ -8,8 +8,6 @@ expceted number format:
 + in front of all of the above
 """
 
-text = "..1"
-
 def is_correct_number(text):
     dot_found = False
     # if text[0] == "+" or text[0] == "-"
@@ -36,7 +34,7 @@ def is_correct_number(text):
     return not (dot_found and len(text) == 1) # თუ წერტილი ნაპოვნია და 1 ცალი სიმბოლოსგან შედგება, არასწორი რიცხვია თუ არადა ყველაფერი სწორია!
 
 
-text = "-17.9"
+text = "-a"
 if is_correct_number(text):
     print(float(text))
 else:

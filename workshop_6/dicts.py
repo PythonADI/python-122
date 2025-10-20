@@ -2,7 +2,7 @@ person = {
     "name": "Luka",
     "age": 27,
     "pet": "Dog",
-    "friends": ["Nick", "Marry"]
+    "friends": ["Nick", "Marry"],
 }
 
 print(person)
