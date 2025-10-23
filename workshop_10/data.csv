@@ -1,0 +1,11 @@
+date,region,product,units_sold,unit_price
+2025-01-05,North,Keyboard,25,45.99
+2025-01-06,South,Mouse,40,19.99
+2025-01-06,East,Monitor,12,189.99
+2025-01-07,West,Keyboard,18,47.49
+2025-01-07,North,Monitor,8,199.99
+2025-01-08,South,Keyboard,30,44.99
+2025-01-08,East,Mouse,35,18.49
+2025-01-09,West,Monitor,14,210.00
+2025-01-09,North,Mouse,50,20.49
+2025-01-10,South,Keyboard,22,46.99
