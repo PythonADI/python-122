@@ -1,3 +1,4 @@
+date,field,crop,area_ha,yield_tons,rainfall_mm
 2025-03-01,Field A,Wheat,12.5,38.2,24
 2025-03-01,Field B,Barley,9.8,27.4,18
 2025-03-02,Field C,Corn,15.0,52.7,32
