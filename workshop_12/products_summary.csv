@@ -1,0 +1,4 @@
+name,region,units_sold,unit_price,revenue,expired
+Milk,North,120,1.50,180.00,True
+Bread,South,80,2.00,160.00,True
+Keyboard,East,20,45.50,910.00,False

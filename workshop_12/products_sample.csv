@@ -1,0 +1,11 @@
+name,region,unit_price,units_sold,expiry_date
+Milk,North,1.50,120,2025-10-01
+Bread,South,2.00,80,2025-12-01
+Keyboard,East,45.50,20,
+Mouse,West,19.99,200,
+Monitor,East,189.99,35,
+Cheese,North,3.25,60,2025-11-15
+Yogurt,South,0.99,150,2025-10-20
+Apple,East,0.50,500,2025-10-05
+Printer,West,120.00,10,
+Coffee,North,7.99,90,2026-01-01
