@@ -7,6 +7,8 @@ class Person:
     def info(self) -> str:
         return f"Person: {self.name}"
 
+    def __str__(self):
+        return self.info()
 
 class Employee(Person):
     def __init__(self, name: str, role: str):
@@ -30,4 +32,4 @@ class Student(Person):
 if __name__ == "__main__":
     people = [Person("Alex"), Employee("Beth", "Engineer"), Student("Carl", "High School")]
     for p in people:
-        print(p.info())
+        print(p)
