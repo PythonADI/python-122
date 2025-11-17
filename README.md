@@ -22,3 +22,6 @@
 8. [Homework 8: Fun with Functions and Maps!](./docs/homework_8.md)
 9. [Homework 9: Python Recap Homework](./docs/homework_9.md)
 10. [Homework 10: Object-Oriented Programming and CSV Processing](./docs/homework_10.md)
+
+## Final Project
+- [Final Project: Django Web Application](./docs/final_project.md)
